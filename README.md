@@ -13,3 +13,6 @@ Add and categorize expenses within each budget.
 View spending summaries and alerts when approaching budget limits.
 Export budget data in CSV format.
 User authentication and profile management.
+
+![image](https://github.com/user-attachments/assets/31d140ad-75e5-4462-9fce-90b5ad0802f6)
+
